@@ -1,0 +1,26 @@
+body {
+    font-family: Arial, sans-serif;
+
+    margin: 0;
+    padding: 0;
+    background: url(./img/home\ bg.jpg);
+    background-size: cover;
+    object-fit: cover;
+}
+
+header {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 1em 0;
+   height: 70px;
+}
+
+.hero {
+    text-shadow: 2px 2px 4px #333;
+    background-size: cover;
+    text-align: center;
+    letter-spacing: 3px;
+   color: white;
+    padding: 100px 0;
+}
